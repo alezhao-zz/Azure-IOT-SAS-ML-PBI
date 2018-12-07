@@ -52,6 +52,8 @@
 
      <https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-weather-forecast-machine-learning>
 
+     ![](https://iothubstorageaccts.blob.core.windows.net/pic/studio.PNG)
+
    - Replace Query script with 
 
      ```sql
