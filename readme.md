@@ -4,19 +4,19 @@
 
 ## **Before build solution you need prepare**
 
-1. Install VS code 
+1. ###### Install VS code 
 
    https://code.visualstudio.com/
 
-2. Global Azure Subscription with 100 USD at least
+2. ###### Global Azure Subscription with 100 USD at least
 
    <https://azure.microsoft.com/en-us/>
 
-3. Install Device Explorer
+3. ###### Install Device Explorer
 
    <https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer>
 
-4. Active Power BI Online 
+4. ###### Active Power BI Online 
 
    https://msit.powerbi.com/
 
