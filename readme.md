@@ -2,7 +2,7 @@
 
 ![](https://iothubstorageaccts.blob.core.windows.net/pic/architect.PNG)
 
-**Before build solution you need prepare**
+## **Before build solution you need prepare**
 
 1. Install VS code 
 
@@ -20,7 +20,7 @@
 
    https://msit.powerbi.com/
 
-**Step by Step setup IOT Temperature & Humidity Guide**
+## **Step by Step setup IOT Temperature & Humidity Guide**
 
 1. ###### Setup IOT hub
 
