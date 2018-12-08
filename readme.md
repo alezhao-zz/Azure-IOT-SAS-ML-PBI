@@ -1,4 +1,4 @@
-## Build Azure IOT solution with ML and Power BI
+## Overview
 
 ![](https://iothubstorageaccts.blob.core.windows.net/pic/architect.PNG)
 
